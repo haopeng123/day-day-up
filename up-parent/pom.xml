@@ -61,7 +61,7 @@
         <jackjson.version>2.6.3</jackjson.version>
         <fastjson.version>1.1.36</fastjson.version>
         <sitemesh.version>2.4.2</sitemesh.version>
-        <poi.version>3.14</poi.version>
+        <poi.version>3.17</poi.version>
         <elasticsearch.version>5.6.1</elasticsearch.version>
 
     </properties>
